@@ -31,15 +31,18 @@ Pulls the latest code from the main branch.
 
 ### 2. SonarQube Quality Analysis  
 Performs static code analysis using SonarQube.
+![Sonar Scan ](assets/extras/sonar-scan.png)
 
 ### 3. OWASP Dependency Check  
 Scans project dependencies for known vulnerabilities.
 
 ### 4. Sonar Quality Gate Scan  
 Waits for SonarQube quality gate result (pass/fail).
+![Sonar Quality Gate Scan ](assets/extras/quality-gates.png)
 
 ### 5. Trivy File System Scan  
 Scans the project directory using Trivy and generates an HTML report.
+![Trivy Scan ](assets/extras/trivy.png)
 
 ### 6. Deploy using Docker Compose  
 Builds and runs the portfolio using Docker Compose.  

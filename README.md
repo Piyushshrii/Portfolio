@@ -47,7 +47,7 @@ Successful builds result in a live deployment.
 
 #### 🔧 CI/CD Pipeline Snapshot
 
-![CI/CD Pipeline](assets/screenshots/jenkins-pipeline.png)
+![CI/CD Pipeline](assets/extras/Pipeline.png)
 
 ---
 

@@ -6,7 +6,7 @@ This is a portfolio website for **Piyush**, a DevOps Engineer, built to showcase
 
 ## 🖥️ Website Preview
 
-![Portfolio Homepage](assets/screenshots/portfolio-homepage.png)
+![Portfolio Homepage](assets/img/Portfolio-website.png)
 
 ---
 
